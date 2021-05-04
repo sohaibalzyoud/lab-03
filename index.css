@@ -1,5 +1,5 @@
 margin: 0%;
-  background-color:whitesmoke;
+  background-color:redsmoke;
 }
 
 
@@ -29,12 +29,12 @@ header nav ul li{
 }
 
 header nav ul li a{
-  color: #00ADB5;
+  color: #00ADB5#32045d;
   text-decoration: none;
 }
 
 #first{
-  background-color: #00ADB5;
+  background-color:#32045d #00ADB5;
   width: 70%;
   height: 320px;
   text-align: center;
