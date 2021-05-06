@@ -1,11 +1,12 @@
 body{
-  margin: 0%;
-  background-color:whitesmoke;
-}
+  
+ background-image: url(https://static.alphacoders.com/thumbs_categories/32.jpg);
+ background-size:auto
+
 
 
 header{
-  color:rgba(17, 16, 16, 0.933) a3;
+  color: #d46ea3;
   background-color: #32045d ;
   height: 80px;
 }
@@ -30,12 +31,12 @@ header nav ul li{
 }
 
 header nav ul li a{
-  color:whitesmoke;
+  color: rgb(212, 110, 163);
   text-decoration: none;
 }
 
 #first{
-  background-color: #002695;
+  background-color: #f4abc4;
   width: 70%;
   height: 300px;
   text-align: center;
@@ -56,7 +57,7 @@ header nav ul li a{
 
 #second{
   color: #32045d;
-   background-color: #690125;
+   background-color: #f4abc4;
    margin-bottom:30px; 
 }
 
@@ -70,8 +71,7 @@ header nav ul li a{
 
 footer{
   height: 100px;
-  color: #690125;
+  color: #f4abc4;
   background-color: hsl(271.01,91.75%,19.02%);
   text-align: center;
 }
-
