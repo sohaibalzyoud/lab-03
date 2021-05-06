@@ -15,8 +15,5 @@ if(favouriteMovie=='fighting game'){
 var age=prompt('whats your age?');
 
 if(age == 30){
-  console.log('you are 30')
+  console.log('you are 30 ')
 }
-
-
-// var age;
