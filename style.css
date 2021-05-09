@@ -2,7 +2,11 @@ body{
   
  background-image: url(https://static.alphacoders.com/thumbs_categories/32.jpg);
  background-size:auto
+<<<<<<< HEAD
  
+=======
+
+>>>>>>> a54a7083bd088e47bd14d2f7e8b9de8cfdb223b7
 
 header{
   color: #d46ea3;
@@ -16,9 +20,15 @@ header nav{
   margin-top: 15px;
   
 
+<<<<<<< HEAD
 
 }
 
+=======
+
+}
+
+>>>>>>> a54a7083bd088e47bd14d2f7e8b9de8cfdb223b7
 header h1{
   float: left;
   margin-left: 40px;
