@@ -25,7 +25,7 @@ console.log(topgame)
 
 while (topgame!== "sporting" && topgame !== "action") { topgame = prompt("Make sure to answer with eather sporting or action"); }
 
-var stars = prompt('how many starts do you rate our website?');
+var stars = prompt("how many stars do you rate our website?");
 
 if (stars > 5) {
   stars = 5;
