@@ -43,4 +43,3 @@ return starResults;
 
 document.write(getRating());
 
-}
